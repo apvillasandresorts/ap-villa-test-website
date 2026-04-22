@@ -1,0 +1,1 @@
+export const metadata={title:'AP Villas & Resorts',description:'Luxury stay'};export default function RootLayout({children}){return <html><body>{children}</body></html>}
